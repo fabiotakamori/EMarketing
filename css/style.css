@@ -21,30 +21,32 @@
   box-shadow: 1px 1px 1px 3px #e2e2e2; }
   .corpo .container .row .col-4 {
     text-align: center; }
-    .corpo .container .row .col-4 img {
-      width: 180px;
-      height: 180px; }
-    .corpo .container .row .col-4 .font-produto {
-      color: #666666;
-      text-align: center;
-      line-height: 14px;
-      margin-bottom: 20px; }
-    .corpo .container .row .col-4 .de-preco {
-      text-decoration-line: line-through;
-      color: #747474;
-      font-weight: bold;
-      line-height: 14px;
-      margin-bottom: 0px; }
-    .corpo .container .row .col-4 .por-preco {
-      color: #192C53;
-      font-weight: 900;
-      font-size: 24px;
-      margin-top: 0px;
-      margin-bottom: 0px; }
-    .corpo .container .row .col-4 .desconto {
-      font-weight: 500;
-      font-size: 10px;
-      color: #192C53; }
+    .corpo .container .row .col-4 a {
+      text-decoration: none; }
+      .corpo .container .row .col-4 a img {
+        width: 180px;
+        height: 180px; }
+      .corpo .container .row .col-4 a .font-produto {
+        color: #666666;
+        text-align: center;
+        line-height: 14px;
+        margin-bottom: 20px; }
+      .corpo .container .row .col-4 a .de-preco {
+        text-decoration-line: line-through;
+        color: #747474;
+        font-weight: bold;
+        line-height: 14px;
+        margin-bottom: 0px; }
+      .corpo .container .row .col-4 a .por-preco {
+        color: #192C53;
+        font-weight: 900;
+        font-size: 24px;
+        margin-top: 0px;
+        margin-bottom: 0px; }
+      .corpo .container .row .col-4 a .desconto {
+        font-weight: 500;
+        font-size: 10px;
+        color: #192C53; }
 
 footer {
   padding: 10px;
